@@ -1,0 +1,6 @@
+{
+  "name": "Generator Parts Lead Finder",
+  "description": "A specialized lead generation tool for diesel generator parts sales, featuring country-based search, multi-language support, and AI-powered lead extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
